@@ -1,3 +1,3 @@
-# Metadata Tools
-Scripts for extracting metadata from images, documents and files.  
-Useful for digital forensics and data inspection.
+# Log Parsers
+Utilities to parse, filter and analyze different log types using Python.  
+Useful for SOC automation and Blue Team workflows.
